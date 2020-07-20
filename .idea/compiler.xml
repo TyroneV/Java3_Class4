@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="twitimage" />
         <module name="TwitProfile" />
+        <module name="Java3_Class4" />
       </profile>
     </annotationProcessing>
   </component>
